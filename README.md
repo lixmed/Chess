@@ -33,6 +33,6 @@ Welcome to the **Chess Game** repository! This project is a fully-functional che
     python main.py
     ```
 
-**Note:** Make sure you have Python and Pygame installed before running the script. Refer to the [Installation](#installation) section for details.
+**Note:** Make sure you have Python and Pygame installed before running the script.
 
 ---
