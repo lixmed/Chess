@@ -4,6 +4,7 @@ Welcome to the **Chess Game** repository! This project is a fully-functional che
 
 ---
 
+
 ## **Table of Contents**
 
  [Features](#features)
